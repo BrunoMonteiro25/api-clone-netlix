@@ -1,0 +1,248 @@
+[
+  {
+    "titulo": "Enola Holmes",
+    "tipo": "Movie",
+    "capa": "https://i.imgur.com/QGgXFl6.png",
+    "logo": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "descricao": "Enola Holmes usa seus poderes de dedução para despistar seu irmão Sherlock e encontrar sua mãe.",
+    "generos": [
+      "Filmes para toda a familia",
+      "Obras de época",
+      "Filmes baseados em livros"
+    ],
+    "elenco": ["Millie Bob Brown", "Henry Cavill", "Sam Claflin"],
+    "cenas_momentos": ["Spiritual", "Thriller", "Exciting"]
+  },
+  {
+    "titulo": "Grey's Anatomy",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/mPztp9C.jpg",
+    "logo": "https://i.imgur.com/Uy3KxUI.png",
+    "thumb": "https://i.imgur.com/kGMEeXT.png",
+    "descricao": "Em Grey's Anatomy, os médicos do Grey Sloan Memorial Hospital/Seattle Grace Hospital lidam diariamente com casos de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e até mesmo amor. Juntos, eles se esforçam para conciliar os dramas profissionais com os pessoais, descobrindo que ambos podem – e vão – se misturar no meio do caminho.",
+    "generos": [
+      "Dramas românticos para a TV",
+      "Séries dramáticas",
+      "Séries do EUA"
+    ],
+    "elenco": ["Ellen Pompeo", "Sandra Oh", "Katherine Heigl"],
+    "cenas_momentos": ["Comoventes", "Românticos"]
+  },
+  {
+    "titulo": "Gotham",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/iDm1pXK.png",
+    "logo": "https://i.imgur.com/oytW0ZC.png",
+    "thumb": "https://i.imgur.com/D6vEM6k.png",
+    "descricao": "Antes de Batman, a cidade de Gotham já existia. James Gordon (Ben McKenzie) é um detetive iniciante polícia. Corajoso, sincero e ansioso para mostrar serviço, o recém-promovido tem como missão solucionar o caso do assassinato dos bilionários Thomas e Martha Wayne, um dos casos mais complexos da cidade. Com seu parceiro, o oficial Harvey Bullock (Donal Logue), Gordon conhece o único sobrevivente do assassinato: Bruce (David Mazuouz), um garoto de 12 anos, filho do casal, por quem ele imediatamente sente uma grande afeição.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Séries baseadas em HQ",
+      "Séries dramáticas"
+    ],
+    "elenco": ["Ben MacKenzie", "Donal Logue", "Jada Pinkett Smith"],
+    "cenas_momentos": ["Vigoroso", "Empolgantes"]
+  },
+  {
+    "titulo": "Breaking Bad",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/EJyDFeY.jpg",
+    "logo": "https://i.imgur.com/4xN7wB8.png",
+    "thumb": "https://i.imgur.com/smFnAR5.png",
+    "descricao": "Walter White (Bryan Cranston) é um professor de química na casa dos 50 anos que trabalha em uma escola secundária no Novo México. Para atender às necessidades de Skyler (Anna Gunn), sua esposa grávida, e Walt Junior (RJ Mitte), seu filho deficiente físico, ele tem que trabalhar duplamente. Sua vida fica ainda mais complicada quando descobre que está sofrendo de um câncer de pulmão incurável. Para aumentar rapidamente a quantidade de dinheiro que deixaria para sua família após sua morte, Walter usa seu conhecimento de química para fazer e vender metanfetamina, uma droga sintética. Ele conta com a ajuda do ex-aluno e pequeno traficante Jesse (Aaron Paul) e enfrenta vários desafios, incluindo o fato de seu concunhado ser um importante nome dentro da Agência Anti-Drogas da região.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Suspense para TV",
+      "Séries dramáticas"
+    ],
+    "elenco": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+    "cenas_momentos": ["Adrenalina", "Realistas", "Violentos"]
+  },
+  {
+    "titulo": "The Umbrella Academy",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/tGKxkFz.jpg",
+    "logo": "https://i.imgur.com/gbLdK3F.png",
+    "thumb": "https://i.imgur.com/ErM4aCe.jpg",
+    "descricao": "Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família – além de uma ameaça iminente à humanidade.",
+    "generos": [
+      "Séries de ficção cientifica",
+      "Séries baseadas em HQ",
+      "Séries do EUA"
+    ],
+    "elenco": ["Ellen Page", "Tom Hopper", "David Castañeda"],
+    "cenas_momentos": ["Realidade alternativa", "Excêntricos", "Peculiares"]
+  },
+  {
+    "titulo": "Tropa de Elite",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/Sjxgn3y.jpg",
+    "logo": "https://i.imgur.com/oDHGhpX.png",
+    "thumb": "https://i.imgur.com/aMNtnxW.png",
+    "descricao": "Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão apaziguar o Morro do Turano. Ele precisa cumprir as ordens enquanto procura por um substituto para ficar em seu lugar. Em meio a um tiroteio, Nascimento e sua equipe resgatam Neto e Matias, dois aspirantes a oficiais da PM. Ansiosos para entrar em ação e impressionados com a eficiência de seus salvadores, os dois se candidatam ao curso de formação da Tropa de Elite.",
+    "generos": [
+      "Filmes baseados em livros",
+      "Ação e aventura",
+      "Suspense de ação"
+    ],
+    "elenco": ["Wagner Moura", "André Ramiro", "Caio Junqueira"],
+    "cenas_momentos": ["Adrenalina", "Realistas", "Violentos"]
+  },
+  {
+    "titulo": "Lúcifer",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/b2zLfsL.jpg",
+    "logo": "https://i.imgur.com/o7QZgVQ.png",
+    "thumb": "https://i.imgur.com/UOjMVEO.jpg",
+    "descricao": "O famigerado Senhor do Inferno, se cansa da vida demoníaca que leva no subterrâneo e abandona seu trono para tirar férias em Los Angeles. Lá, ele abre uma casa noturna chamada 'Lux' e passa a desfrutar de tudo o que mais gosta: vinho, mulheres e excessos. Sua nova rotina se complica quando uma estrela do pop é brutalmente assassinada diante de seus olhos. Pela primeira vez em mais de 10 milhões de anos, Lucifer sente despertar em seu interior um desejo de justiça e resolve punir os responsáveis pelo crime. Ele conhece, então, a policial Chloe Decker (Lauren German) e se junta a ela para desvendar o caso. Mas seus poderes de persuasão se mostram tão úteis que ele se torna uma espécie de consultor em outras investigações de homicídio, formando uma dupla improvável com Chloe. Ao longo dos episódios, os dois desvendam todo tipo de caso sobrenatural.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Séries de fantasia",
+      "Séries baseadas em HQ"
+    ],
+    "elenco": ["Tom Ellis", "Lauren German", "Kevin Alejandro"],
+    "cenas_momentos": ["Irreverentes", "Empolgantes"]
+  },
+  {
+    "titulo": "Peaky Blinders",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/HOOt0ZR.jpg",
+    "logo": "https://i.imgur.com/yhjZgM3.png",
+    "thumb": "https://i.imgur.com/lOnb2zZ.jpg",
+    "descricao": "Em Peaky Blinders, Thomas Shelby (Cillian Murphy) e seus irmãos retornam a Birmingham depois de servir no exército britânico durante a Primeira Guerra Mundial. Shelby e os Peaky Blinders, a gangue de criminosos da qual ele é líder, controlam a cidade com mãos de ferro, construindo um império que vai desde corridas de cavalo adulteradas e roubo de carregamentos até parcerias secretas com os russos. Mas as ambições de Shelby se estendem para além de Birmingham, e ele não vai deixar que ninguém atrapalhe seus planos de se tornar um dos homens mais poderosos do Reino Unido.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Obras de época",
+      "Séries britânicas"
+    ],
+    "elenco": ["Cillian Murphy", "Sam Neill", "Hellen MacCrory"],
+    "cenas_momentos": ["Violentos", "Vigoroso"]
+  },
+  {
+    "titulo": "O Diabo de Cada Dia",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/88RFIe9.jpg",
+    "logo": "https://i.imgur.com/WaSZvXT.png",
+    "thumb": "https://i.imgur.com/HhJZwQc.jpg",
+    "descricao": "Um jovem dedicado a proteger seus entes queridos enfrenta a corrupção e a violência em um canto esquecido de Ohio, no período entre a Segunda Guerra Mundial e a Guerra do Vietnã.",
+    "generos": ["Filmes baseados em livros", "Dramas", "Dramas policiais"],
+    "elenco": ["Tom Holland", "Bill Skarsgard", "Rillei Keough"],
+    "cenas_momentos": ["Sinistros", "Sombrios"]
+  },
+  {
+    "titulo": "The Old Guard",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/2xx9J0i.jpg",
+    "logo": "https://i.imgur.com/IeR5h4p.png",
+    "thumb": "https://i.imgur.com/aPfybIk.jpg",
+    "descricao": "Um grupo de mercenários com o dom da imortalidade protege a humanidade há séculos e faz de tudo para manter sua identidade em segredo. Mas tudo muda quando alguém descobre seu segredo e eles passam a ser caçados.",
+    "generos": [
+      "Filmes baseados em livros",
+      "Ação e aventura",
+      "Suspense de ação"
+    ],
+    "elenco": ["Charlize Theron", "Kiki Layne", "Marwan Kenzari"],
+    "cenas_momentos": ["Realistas", "Empolgantes"]
+  },
+  {
+    "titulo": "Atirador",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/2AyivZl.jpg",
+    "logo": "https://i.imgur.com/iZYZ4Oz.png",
+    "thumb": "https://i.imgur.com/i0UA8nY.jpg",
+    "descricao": "O atirador Marksman Bob Lee Swagger deixa o exército e desaparece sem deixar rastros. Ele volta para impedir o assassinato do Presidente dos Estados Unidos, mas é enganado e passa a ser perseguido como criminoso.",
+    "generos": [
+      "Séries dramáticas sobre crimes",
+      "Séries baseadas em livros",
+      "Séries dramáticas"
+    ],
+    "elenco": ["Ryan Phillippe", "Omar Epps", "Cynthia Addai-Robbinson"],
+    "cenas_momentos": ["Vigoroso"]
+  },
+  {
+    "titulo": "Até o Último Homem",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/M4NVavf.jpg",
+    "logo": "https://i.imgur.com/8owLMuZ.png",
+    "thumb": "https://i.imgur.com/KiNM9OY.png",
+    "descricao": "Acompanhe a história de Desmond T. Doss, um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.",
+    "generos": ["Filmes baseados na vida real", "Dramas", "Dramas militares"],
+    "elenco": ["Vince Vaughe", "Like Pegler", "Firass Dirani"],
+    "cenas_momentos": ["Violentos", "Aqui tudo é possivel", "Comoventes"]
+  },
+  {
+    "titulo": "O Regresso",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/fte3dLt.jpg",
+    "logo": "https://i.imgur.com/AE5wiM7.png",
+    "thumb": "https://i.imgur.com/4D6QQxb.png",
+    "descricao": "Após ser atacado por um urso, o caçador Hugh Glass é abandonado na floresta por seu companheiro John Fitzgerald. Apesar de muito ferido, Glass consegue sobreviver e vai em busca de vingança.",
+    "generos": [
+      "Filmes baseados na vida real",
+      "Obras de época",
+      "Ação e aventura"
+    ],
+    "elenco": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"],
+    "cenas_momentos": ["Violentos", "Realistas"]
+  },
+  {
+    "titulo": "The Ridiculous 6",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/FDpAkEE.jpg",
+    "logo": "https://i.imgur.com/yfzjg81.png",
+    "thumb": "https://i.imgur.com/P50CAau.jpg",
+    "descricao": "Para resgatar seu pai fora da lei, Tommy 'Faca Branca' Stockburn parte em uma jornada através do velho oeste com cinco irmãos que ele nem sabia que existiam.",
+    "generos": ["Faroeste", "Ação e aventura"],
+    "elenco": ["Adam Sandler", "Terry Crews", "Jorge Garcia"],
+    "cenas_momentos": ["Besteirol"]
+  },
+  {
+    "titulo": "Justiceiro",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/eXbhbs4.jpg",
+    "logo": "https://i.imgur.com/TKwvurS.png",
+    "thumb": "https://i.imgur.com/pa4Sd2m.jpg",
+    "descricao": "O agente do FBI Frank Castle se transforma em um justiceiro após sua esposa e filho terem sido assassinados por criminosos. Ele é gravemente ferido no ataque e considerado morto por Howard Saint, que ordenou o golpe. Após sua recuperação, Castle se torna um vigilante fortemente armado que não para por nada até se vingar de Saint e desmoronar seu império.",
+    "generos": ["Séries baseadas em HQ", "Suspense para TV", "Séries do EUA"],
+    "elenco": ["Jon Bernthal", "Ben Barnes", "Amber Rose Revah"],
+    "cenas_momentos": ["Realistas", "Vigoroso"]
+  },
+  {
+    "titulo": "Em Ritmo de Fuga",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/DWxcN6m.jpg",
+    "logo": "https://i.imgur.com/nXaKDhu.png",
+    "thumb": "https://i.imgur.com/vH5MM6Z.png",
+    "descricao": "O talentoso motorista de fuga Baby confia nas batidas de sua própria trilha sonora para ser o melhor que existe. A música silencia um zumbido que o perturba desde um acidente na infância. Após conhecer a mulher dos seus sonhos, ele reconhece uma oportunidade de se livrar do estilo de vida questionável e recomeçar do zero. Obrigado a trabalhar para um chefão do crime, Baby lida com a música ao mesmo tempo em que um golpe fadado ao fracasso ameaça sua vida, seu amor e sua liberdade.",
+    "generos": ["Filmes britânicos", "Ação e aventura", "Comédias de ação"],
+    "elenco": ["Ansel Elgort", "Kevin Spacey", "Lily James"],
+    "cenas_momentos": ["Excêntricos", "Vigoroso", "Empolgantes"]
+  },
+  {
+    "titulo": "Tróia",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/lDcF7c6.jpg",
+    "logo": "https://i.imgur.com/nI9wuJF.png",
+    "thumb": "https://i.imgur.com/mLck3pN.jpg",
+    "descricao": "Em busca da mulher prometida por Afrodite, o pastor Páris descobre sua verdadeira identidade e se apaixona por Helena de Esparta, desencadeando a Guerra de Troia",
+    "generos": [
+      "Dramas românticos para a TV",
+      "Séries baseadas em livros",
+      "Séries britânicas"
+    ],
+    "elenco": ["Louis Hunter", "Bella Dayne", "Frances O'Connor"],
+    "cenas_momentos": ["Empolgantes", "Românticos"]
+  },
+  {
+    "titulo": "O Durão",
+    "tipo": "filme",
+    "capa": "https://i.imgur.com/lVj3vnw.jpg",
+    "logo": "https://i.imgur.com/OWF2nWF.png",
+    "thumb": "https://i.imgur.com/UFhOXu0.png",
+    "descricao": "Quando o milionário James King é preso por fraude e deve cumprir pena em San Quentin, o juiz concede a ele 30 dias para organizar os seus negócios. Desesperado, ele procura Darnell Lewis para prepará-lo para a vida atrás das grades. Mas apesar das suposições de James, Darnell é um trabalhador nunca esteve em uma prisão. Juntos, os dois homens fazem todo o possível para tornar James 'durão' e, no processo, descobrem como estavam enganados sobre muitas coisas, inclusive sobre eles mesmos.",
+    "generos": ["Comédia", "Comédias de fim de noite"],
+    "elenco": ["Will Ferrell", "Kevin Hart", "Craig T. Nelson"],
+    "cenas_momentos": ["Apimentados", "Irreverentes", "Besteirol"]
+  }
+]
