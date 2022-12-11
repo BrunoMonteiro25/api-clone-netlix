@@ -5,6 +5,7 @@ const Filme = mongoose.model('Filme', {
   tipo: String,
   capa: String,
   logo: String,
+  logoMobile: String,
   thumb: String,
   descricao: String,
   generos: Array,
