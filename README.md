@@ -22,9 +22,9 @@ API para o projeto Clone da Netflix que desenvolvi durante o curso de NodeJS do 
 
 NodeJS(Express), MongoDB
 
-### Mobile e Web :mag:
+### Mobile :mag:
 
-Veja os projetos que foram construídos a partir dessa API.
+Veja o projeto que foi construído a partir dessa API.
 
 Aplicação Mobile: https://github.com/BrunoMonteiro25/react-native-clone-netflix
 
