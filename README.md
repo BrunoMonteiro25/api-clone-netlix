@@ -28,9 +28,6 @@ Veja os projetos que foram construídos a partir dessa API.
 
 Aplicação Mobile: https://github.com/BrunoMonteiro25/react-native-clone-netflix
 
-Sistema Web: Em breve...
-
-
 ### Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
