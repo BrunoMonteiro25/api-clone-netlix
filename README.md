@@ -1,7 +1,7 @@
 # api-clone-netlix
 NodeJS(Express) + MongoDB
 
-[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [Mobile e Web](#mobile-e-web-mag) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+[Funcionalidades](#funcionalidades-checkered_flag) | [Tecnologias](#tecnologias-computer) | [Mobile](#mobile-e-web-mag) | [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 ##
 
 ### Descrição do Projeto :star:
