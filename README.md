@@ -8,6 +8,7 @@ NodeJS(Express) + MongoDB
 
 API para o projeto Clone da Netflix que desenvolvi durante o curso de NodeJS do canal do youtube (O irmão mais velho).
 
+
 ### Funcionalidades :checkered_flag:
 
 - Criar Usuário
